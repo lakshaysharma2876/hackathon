@@ -1,0 +1,43 @@
+body{
+    background-image: url("img/weather_bg.jpg");
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: cursive;
+}
+
+div.heading{
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-left: 310px;
+    padding: 5px;
+    background-color: rgb(162, 198, 230);
+    width: 820px;
+    height: 80px;
+    border: 5px solid black;    
+    text-align: center;
+    text-shadow: 3px 3px 5px black;
+    font-weight: 2000;
+    font-size: 60px;
+    font-family: cursive;
+}
+
+dt{
+    font-weight: 800;
+    font-size: 30px;
+    font-style: italic;
+}
+dd{
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+}
+img{
+    height: 80px;
+    width: 100px;
+    margin-left: 1350px;
+    margin-top: 30px;
+}
